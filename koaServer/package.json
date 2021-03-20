@@ -1,0 +1,27 @@
+{
+  "name": "koaserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/cors": "^3.1.0",
+    "bcrypt": "^5.0.0",
+    "email-deep-validator": "^3.3.0",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-mount": "^4.0.0",
+    "koa-router": "^10.0.0",
+    "koa-static": "^5.0.0",
+    "mongoose": "^5.10.17",
+    "nodemailer": "^6.4.16",
+    "password-validator": "^5.1.1",
+    "shortid": "^2.2.16"
+  }
+}
